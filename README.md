@@ -1,6 +1,6 @@
 
 # Prueba Full Stack Developer
-Este proyecto está desarrollado utilizando Angular y spring boot con BD en memoria)
+Este proyecto está desarrollado utilizando Angular y spring boot con BD en memoria
 Se utiliza Docker como contenedor de este full stack.
 
 NOTA: este proyecto esta divido en cliente y servidor, las versiones de node para cliente y java para servidor son las ultimas versiones esto por mero entretenimiento de comprobar la funcionalidad de docker.
